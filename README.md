@@ -35,8 +35,8 @@ NGO-Website/
 
 ## 🚀 Live Demo
 
-🔗 [Live Website on Netlify](https://your-netlify-link.netlify.app)  
-📂 [GitHub Repository](https://github.com/vaibh-vaibh/ngo-website)
+🔗 https://basti-ki-pathshala-ngo.netlify.app
+📂 https://github.com/vaibh-vaibh/ngo-website
 
 ## 📌 Features
 
