@@ -1,13 +1,12 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import bannerImage from '../assets/banner.jpg'; 
+import { Link } from 'react-router-dom'; 
 
 function Home() {
   return (
     <div>
       <div className="container-fluid p-0">
         <img
-          src={bannerImage}
+          src="src/assets/banner.jpg"
           alt="NGO Banner"
           className="img-fluid w-100"
           style={{ maxHeight: '500px', objectFit: 'cover' }}
