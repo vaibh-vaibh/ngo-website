@@ -6,7 +6,7 @@ function Home() {
     <div>
       <div className="container-fluid p-0">
         <img
-          src="src/assets/banner.jpg"
+          src="https://img.freepik.com/free-psd/people-are-one-big-family-banner-template_23-2148680653.jpg"
           alt="NGO Banner"
           className="img-fluid w-100"
           style={{ maxHeight: '500px', objectFit: 'cover' }}
@@ -36,7 +36,7 @@ function Home() {
           </div>
           <div className="col-md-6">
             <img
-              src="src/assets/charity-help-mission.jpg"
+              src="https://thumbs.dreamstime.com/b/charity-donation-give-help-support-concept-58257094.jpg"
               alt="Mission"
               className="img-fluid rounded"
             />

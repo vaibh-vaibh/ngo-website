@@ -8,7 +8,7 @@ function About() {
       <div className="row align-items-center mb-5">
         <div className="col-md-6">
           <img
-            src="src\assets\people_community.jpg"
+            src="https://www.shutterstock.com/image-photo/team-young-diversity-volunteer-worker-600nw-2281547347.jpg"
             alt="Who we are"
             className="img-fluid rounded"
           />
@@ -27,7 +27,7 @@ function About() {
       <div className="row align-items-center mb-5 flex-md-row-reverse">
         <div className="col-md-6">
           <img
-            src="src\assets\mission_hope.jpg"
+            src="https://missionhope.org.in/wp-content/uploads/2024/01/1.jpg"
             alt="Our mission"
             className="img-fluid rounded"
           />
